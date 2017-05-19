@@ -1,3 +1,3 @@
-Circa 2012 - The first website that I built and maintained regularly as a professional.
+Circa 2012 - The first website that I built and maintained professionally.
 
-The site can be seen at [justin-vanwinkle.github.io/erinWebsite](http://justin-vanwinkle.github.io/erinWebsite) 
+The site can be seen at [https://erinvanwinkle.github.io/](https://erinvanwinkle.github.io/) 
